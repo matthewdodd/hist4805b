@@ -10,3 +10,5 @@
  - slid.es
  - tabula
  - carto.db
+ - RAW from desity design
+ - Palladio
