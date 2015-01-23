@@ -9,3 +9,4 @@
  - Though the <met()> command works well every time, there appears to be an issue with the <scrapi()> commands. 
  - It is necessary to use scrapi to grab certain data for later grabbing, even with the <met()> command.
  - To this end I submitted an issue to https://github.com/ropensci/musemeta, specifically the issue is located: https://github.com/ropensci/musemeta/issues/8
+  - An update has been given and it looks like scrapi is down, a developer (Scott Chamberlain) is working on the issue. Amazing response time on a still in development R tool.
