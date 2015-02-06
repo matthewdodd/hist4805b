@@ -1,0 +1,18 @@
+Object Number,Title,Period,Date,Culture,Medium,Dimensions,Classification,Credit Line,Accession Number
+6,  Arretine ware fragment,NULL,NULL,Roman Gaul,Terracotta,2 7/16 × 2 3/8 × 3/16 in. (6.2 × 6.1 × 0.5 cm),Vases,Gift of J. Pierpont Morgan 1917,17.194.1927
+7,  Earring-hook type with pendant and disc,NULL,NULL,NULL,Gold,Diameter: 13/16 × 1/4 in. (2.1 × 0.6 cm),Gold and Silver,The Cesnola Collection Purchased by subscription 1874–76,74.51.4014
+8,  Amphora,Cypro-Classical I or II,NULL,Cypriot,Terracotta,11 1/8in. (28.2cm),Vases,The Cesnola Collection Purchased by subscription 1874–76,74.57.12
+9,  Bead,NULL,NULL,NULL,Glass,Height: 5/16 x 9/16 in. (0.9 x 1.4 cm),Glass,Gift of J. Pierpont Morgan 1917,17.194.682
+12,  Fibula boat-shaped type,NULL,NULL,NULL,Bronze,Other: 2 3/16 in. (5.6 cm),Bronzes,Purchase 1896,96.9.314
+16,  Mosaic glass fragment,NULL,NULL,Roman,Glass,H.: 15/16 x 1 3/16 in. (2.5 x 3 cm),Glass,Edward C. Moore Collection Bequest of Edward C. Moore 1891,91.1.1754
+17,  Pendant with figures,NULL,NULL,Cypriot,Silver,Other: 9/16 x 3/16 x 15/16 in. (1.5 x 0.5 x 2.3 cm),Gold and Silver,The Cesnola Collection Purchased by subscription 1874–76,74.51.3270
+20,  Limestone statuette of a beardless male votary in Egyptianizing dress,NULL,NULL,Cypriot,Limestone,Overall: 6 3/4 x 3 1/4 x 2 in. (17.1 x 8.3 x 5.1 cm),Stone Sculpture,The Cesnola Collection Purchased by subscription 1874–76,74.51.2567
+25,  Arrowhead,NULL,NULL,NULL,Iron,Width 8.26 cm.,Miscellaneous-Iron,The Cesnola Collection Purchased by subscription 1874–76,74.51.4606
+26,  Earring-hook type with sard setting,NULL,NULL,NULL,Gold sard,Other: 1/4 × 3/8 × 1 1/16 in. (0.7 × 1 × 2.8 cm),Gold and Silver,The Cesnola Collection Purchased by subscription 1874–76,74.51.3959
+27,  Intaglio,NULL,NULL,Roman,Carnelian burnt,Other: 1/2 x 3/8 x 3/16 in. (1.2 x 1 x 0.5 cm),Gems,Bequest of W. Gedney Beatty 1941,41.160.875
+21,  Marble portrait of a young woman,Trajanic,ca. A.D. 98–117,Roman,Marble,H. 14 3/4 in. (37.5 cm),Stone Sculpture,Fletcher Fund 1927,27.122.4
+13,  Glass bracelet,Imperial,ca. 2nd–4th century A.D.,Roman,Glass  drawn and tooled,Diam.: 9/16 in. (1.5 cm),Glass,Gift of J. Pierpont Morgan 1917,17.194.337
+24,  Glass cosmetic flask (kohl tube),Late Imperial,3rd–4th century A.D.,Roman,Glass  blown and trailed,H.: 3 7/16 in. (8.7 cm),Glass,Gift of J. Pierpont Morgan 1917,17.194.331
+1,  Marble statue of a girl,Imperial,1st or 2nd century A.D.,Roman,Marble,H. with plinth 175.3 cm.,Stone Sculpture,Gift of Mrs. Frederick F. Thompson 1903,03.12.9
+14,  Wall painting fragment,NULL,1st century A.D.,Roman,Fresco,Overall: 3 7/16 x 4 1/8 x 13/16 in. (8.7 x 10.5 x 2.1 cm),Miscellaneous-Paintings,Gift of Miss A. Rivier 1930,30.142.17
+18,  Glass perfume bottle,Early Imperial,1st century A.D.,Roman,Glass  blown and cut,Diam.: 1 5/8 x 3/4 in. (4.1 x 1.9 cm),Glass,The Cesnola Collection Purchased by subscription 1874–76,74.51.182
