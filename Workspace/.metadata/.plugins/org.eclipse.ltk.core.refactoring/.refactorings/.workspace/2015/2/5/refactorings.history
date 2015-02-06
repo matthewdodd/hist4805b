@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Delete resource &apos;FormatConvertor&apos;" deleteContents="false" description="Delete resource &apos;FormatConvertor&apos;" element1="/FormatConvertor" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1422812652501"/>
-</session>
