@@ -9,3 +9,5 @@
   - I navigated ('cd') to the folder I had all of my files in;
   - I then used the command 'ren *.html *.txt' to rename every file with a .html extension to a .txt extension to save time for decoding.
 - I attempted to combine all of the files into one massive file and input this to RStudio with the museMeta library, but this crashes the program (as expected)
+- While going through this by 90 identifiers at a time: page003.txt; page010.txt; page014.txt has some issue. Will need to attempt to manually enter individual identifiers.
+- I completed this day with page022.txt
