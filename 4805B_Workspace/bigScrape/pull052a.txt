@@ -1,0 +1,457 @@
+[[1]]
+<Museum metadata> Sardonyx Lentoid
+  Period: Late Minoan I
+  Date: ca. 1600–1425 B.C.
+  Culture: Minoan
+  Medium: Sardonyx
+  Dimensions: Diam.: 9/16 in. (1.4 cm)
+  Classification: Gems
+  Credit Line: Bequest of Richard B. Seager, 1926
+  Accession Number: 26.31.359
+
+[[2]]
+<Museum metadata> Bronze statuette of Osiris
+  Period: Late Dynastic-Hellenistic
+  Date: 664–31 B.C.
+  Culture: Egyptian
+  Medium: Bronze
+  Dimensions: H. 4 1/2 in. (11.4 cm)
+  Classification: Bronzes
+  Credit Line: The Cesnola Collection, Purchased by subscription, 1874–76
+  Accession Number: 74.51.5584
+
+[[3]]
+<Museum metadata> Terracotta Hadra hydria (water jar)
+  Period: Hellenistic
+  Date: ca. 220 B.C.
+  Culture: Greek, Ptolemaic, Cretan
+  Medium: Terracotta
+  Dimensions: Diam.: 9 1/4 in. (23.5 cm)
+  Classification: Vases
+  Credit Line: Purchase, 1890
+  Accession Number: 90.9.10
+
+[[4]]
+<Museum metadata> Amulet pendant, grapes
+  Medium: Clay, glazed
+  Dimensions: Other: 13/16 x 1/2 x 5/16 in. (2.1 x 1.3 x 0.8 cm)
+  Classification: Gold and Silver
+  Credit Line: The Cesnola Collection, Purchased by subscription, 1874–76
+  Accession Number: 74.51.4523
+
+[[5]]
+<Museum metadata> Mosaic glass fragment
+  Culture: Roman
+  Medium: Glass
+  Dimensions: Other: 7/8 x 1 in. (2.2 x 2.5 cm)
+  Classification: Glass
+  Credit Line: Edward C. Moore Collection, Bequest of Edward C. Moore, 1891
+  Accession Number: 91.1.1911
+
+[[6]]
+<Museum metadata> Handle of a knife
+  Medium: Ivory, metal
+  Dimensions: Other: 1 9/16 x 9/16 x 2 11/16 in. (4 x 1.4 x 6.9 cm)
+  Classifications: Miscellaneous-Bone, Ivory
+  Credit Line: Gift of Henry G. Marquand, 1897
+  Accession Number: 97.22.27
+
+[[7]]
+<Museum metadata> Terracotta lamp mold
+  Date: 1st–2nd century A.D.
+  Culture: Roman
+  Medium: Terracotta
+  Dimensions: Diameter: 2 in. (5.1 cm)
+  Classification: Terracottas
+  Credit Line: The Cesnola Collection, Purchased by subscription, 1874–76
+  Accession Number: 74.51.5874
+
+[[8]]
+<Museum metadata> Bottle
+  Period: Bronze Age
+  Date: ca. 3200–1050 B.C.
+  Culture: Cypriot
+  Medium: Terracotta
+  Dimensions: Other: 4 9/16 in. (11.6 cm)
+  Classification: Vases
+  Credit Line: The Cesnola Collection, Purchased by subscription, 1874–76
+  Accession Number: 74.51.1211
+
+[[9]]
+<Museum metadata> Terracotta kantharos (drinking cup with high vertical handles)
+  Period: Archaic
+  Date: mid-6th century B.C.
+  Culture: East Greek or Cypriot
+  Medium: Terracotta
+  Dimensions: H. 5 3/4 in. (14.6 cm)
+  Classification: Vases
+  Credit Line: The Cesnola Collection, Purchased by subscription, 1874–76
+  Accession Number: 74.51.369
+
+[[10]]
+<Museum metadata> Lamp
+  Period: Early Byzantine
+  Date: late 5th–6th century A.D.
+  Culture: Roman
+  Medium: Terracotta
+  Dimensions: Overall: 3/4 x 3 1/4 in. (1.9 x 8.3 cm)
+  Classification: Terracottas
+  Credit Line: The Cesnola Collection, Purchased by subscription, 1874–76
+  Accession Number: 74.51.2045
+
+[[11]]
+<Museum metadata> Glass bottle
+  Period: Early to Mid Imperial
+  Date: mid-1st–2nd century A.D.
+  Culture: Roman
+  Medium: Glass; blown and cut
+  Dimensions: Other: 3 11/16in. (9.4cm)
+  Classification: Glass
+  Credit Line: The Cesnola Collection, Purchased by subscription, 1874–76
+  Accession Number: 74.51.93
+
+[[12]]
+<Museum metadata> Vase fragment
+  Period: Early Minoan II
+  Culture: Minoan
+  Medium: Terracotta
+  Dimensions: 2 5/16 × 2 1/2 × 5/16 in. (5.9 × 6.3 × 0.8 cm)
+  Classification: Vases
+  Credit Line: Gift of the American Exploration Society, 1907
+  Accession Number: 07.232.49
+
+[[13]]
+<Museum metadata> Vase fragment
+  Period: Early Helladic
+  Date: ca. 3000–2200 B.C.
+  Medium: Terracotta
+  Dimensions: 1 9/16 × 1 9/16 × 3/16 in. (3.9 × 4 × 0.5 cm)
+  Classification: Vases
+  Credit Line: Gift of Gisela M. A. Richter, 1923
+  Accession Number: 23.121.25
+
+[[14]]
+<Museum metadata> Skyphos
+  Period: Classical
+  Date: 5th century B.C.
+  Culture: Greek, Attic
+  Medium: Terracotta; black-glaze
+  Dimensions: H. 16.51 cm.
+  Classification: Vases
+  Credit Line: Purchase, J. Paul Getty Museum and David Tunick Gifts, 1977
+  Accession Number: 1977.11.6
+
+[[15]]
+<Museum metadata> Gold clasp
+  Period: Hellenistic
+  Date: late 4th–early 3rd century B.C.
+  Culture: Greek
+  Medium: Gold
+  Dimensions: Overall: 1 1/2 x 1 1/8 in. (3.8 x 2.9 cm)
+  Classification: Gold and Silver
+  Credit Line: Rogers Fund, 1913
+  Accession Number: 13.234.10
+
+[[16]]
+<Museum metadata> Lamp
+  Period: Late Imperial
+  Date: Late 3rd century A.D.
+  Culture: Roman, Cypriot
+  Medium: Terracotta
+  Dimensions: Overall: 1 5/8 x 3 5/8 in. (4.1 x 9.2 cm)
+  Classification: Terracottas
+  Credit Line: The Cesnola Collection, Purchased by subscription, 1874–76
+  Accession Number: 74.51.2223
+
+[[17]]
+<Museum metadata> Bronze mirror
+  Period: Hellenistic
+  Date: ca. 325–300 B.C.
+  Culture: Etruscan
+  Medium: Bronze
+  Dimensions: diameter  7 1/2in. (19.1cm)
+  Classification: Bronzes
+  Credit Line: Bequest of W. Gedney Beatty, 1941
+  Accession Number: 41.160.407
+
+[[18]]
+<Museum metadata> Terracotta bowl fragment
+  Period: Late Antique
+  Date: A.D. 350–430
+  Culture: Roman
+  Medium: Terracotta; African red slip ware
+  Dimensions: width  5 1/4in. (13.3cm)
+  Classification: Vases
+  Credit Line: Gift of J. Pierpont Morgan, 1917
+  Accession Number: 17.194.2039
+
+[[19]]
+<Museum metadata> Statuette of a woman
+  Medium: Bronze
+  Dimensions: H.: 6 5/8 in. (16.8 cm)
+  Classification: Bronzes
+  Credit Line: Gift of Henry G. Marquand, 1897
+  Accession Number: 97.22.3
+
+[[20]]
+<Museum metadata> Ring
+  Medium: Nicolo, bronze
+  Dimensions: Other: 3/4 x 15/16 x 3/8 in. (2 x 2.3 x 0.9 cm)
+  Classification: Gems
+  Credit Line: The Cesnola Collection, Purchased by subscription, 1874–76
+  Accession Number: 74.51.4283
+
+[[21]]
+<Museum metadata> Gold earrings
+  Period: Classical
+  Date: 4th–early 3rd century B.C.
+  Culture: Etruscan
+  Medium: Gold
+  Dimensions: Diam.: 1 3/16 in. (3 cm)
+  Classification: Gold and Silver
+  Credit Line: Purchase by subscription, 1895
+  Accession Number: 95.15.152, .153
+
+[[22]]
+<Museum metadata> Vase, spindle-shaped
+  Culture: Greek or Roman
+  Medium: Terracotta
+  Dimensions: 9 1/16in. (23cm)
+  Classification: Vases
+  Credit Line: The Cesnola Collection, Purchased by subscription, 1874–76
+  Accession Number: 74.51.363
+
+[[23]]
+<Museum metadata> Glass perfume bottle
+  Period: Early Imperial
+  Date: 1st century A.D.
+  Culture: Roman
+  Medium: Glass; blown
+  Dimensions: Overall: 1 7/16 x 3/4in. (3.7 x 1.9cm)
+  Classification: Glass
+  Credit Line: The Cesnola Collection, Purchased by subscription, 1874–76
+  Accession Number: 74.51.161
+
+[[24]]
+<Museum metadata> Glass alabastron (perfume bottle)
+  Period: Late Classical or Hellenistic
+  Date: mid-4th–early 3rd century B.C.
+  Culture: Greek, Eastern Mediterranean or Italian
+  Medium: Glass; core-formed, Group II
+  Dimensions: H.: 5 5/8 in. (14.3 cm)
+  Classification: Glass
+  Credit Line: Edward C. Moore Collection, Bequest of Edward C. Moore, 1891
+  Accession Number: 91.1.1382
+
+[[25]]
+<Museum metadata> Terracotta pithoid jar
+  Period: Late Helladic IIIA1-IIIA2early
+  Date: ca. 1400–1325 B.C.
+  Culture: Mycenaean
+  Medium: Terracotta
+  Dimensions: Diam. of foot: 1 15/16 in. (4.9 cm)
+  Classification: Vases
+  Credit Line: The Cesnola Collection, Purchased by subscription, 1874–76
+  Accession Number: 74.51.6712
+
+[[26]]
+<Museum metadata> Terracotta rim fragment
+  Period: Middle Helladic I
+  Date: ca. 2100–1900 B.C.
+  Culture: Helladic
+  Medium: Terracotta; Minyan ware
+  Dimensions: Overall: 2 3/4 x 1 13/16in. (7 x 4.6cm)
+  Classification: Vases
+  Credit Line: Gift of Mrs. Carl W. Blegen, 1924
+  Accession Number: 24.151.4
+
+[[27]]
+<Museum metadata> Limestone statue of Herakles
+  Period: Classical
+  Date: 2nd half of the 4th century B.C.
+  Culture: Cypriot
+  Medium: Limestone
+  Dimensions: Overall: 21 3/8 x 8 x 2 3/4 in. (54.3 x 20.3 x 7 cm)
+  Classification: Stone Sculpture
+  Credit Line: The Cesnola Collection, Purchased by subscription, 1874–76
+  Accession Number: 74.51.2660
+
+[[28]]
+<Museum metadata> Glass perfume bottle
+  Period: Early Imperial
+  Date: 1st century A.D.
+  Culture: Roman
+  Medium: Glass; blown and trailed
+  Dimensions: H.: 3 1/16 in. (7.7 cm)
+  Classification: Glass
+  Credit Line: Gift of J. Pierpont Morgan, 1917
+  Accession Number: 17.194.287
+
+[[29]]
+<Museum metadata> Terracotta bell-krater (bowl for mixing wine and water)
+  : Attributed to the Cassel Painter
+  Period: Classical
+  Date: ca. 440–430 B.C.
+  Culture: Greek, Attic
+  Medium: Terracotta; red-figure
+  Dimensions: diameter of mouth  14 5/8 in. (37.1 cm)
+  Classification: Vases
+  Credit Line: Rogers Fund, 1922
+  Accession Number: 22.139.11
+
+[[30]]
+<Museum metadata> Glass beaker or lamp
+  Period: Late Imperial
+  Date: 4th century A.D.
+  Culture: Roman
+  Medium: Glass; blown with applied decoration and cut
+  Dimensions: Other: 5in. (12.7cm)
+  Classification: Glass
+  Credit Line: Gift of J. Pierpont Morgan, 1917
+  Accession Number: 17.194.148
+
+[[31]]
+<Museum metadata> Terracotta jug in the shape of a siren
+  Period: Archaic
+  Date: ca. 550–500 B.C.
+  Culture: Etruscan
+  Medium: Terracotta; bucchero pesante
+  Dimensions: H. 11 7/16 in. (29.1 cm)
+  Classification: Vases
+  Credit Line: Rogers Fund, 1918
+  Accession Number: 18.145.25
+
+[[32]]
+<Museum metadata> Glass bowl
+  Period: Hellenistic
+  Date: mid-2nd–1st century B.C.
+  Culture: Greek
+  Medium: Glass; cast and cut
+  Dimensions: Diam.: 5 3/4 in. (14.6 cm)
+  Classification: Glass
+  Credit Line: Rogers Fund, 1957
+  Accession Number: 57.11.6
+
+[[33]]
+<Museum metadata> Cup
+  Period: Bronze Age
+  Date: ca. 3200–1050 B.C.
+  Culture: Cypriot
+  Medium: Terracotta
+  Dimensions: Diam.: 2 5/8 in. (6.7 cm)
+  Classification: Vases
+  Credit Line: The Cesnola Collection, Purchased by subscription, 1874–76
+  Accession Number: 74.51.1114
+
+[[34]]
+<Museum metadata> Intaglio
+  Date: 1st century B.C.–3rd century A.D.
+  Culture: Roman
+  Medium: Carnelian
+  Dimensions: Other: 3/8 x 1/8 in. (1 x 0.3 cm)
+  Classification: Gems
+  Credit Line: Bequest of W. Gedney Beatty, 1941
+  Accession Number: 41.160.988
+
+[[35]]
+<Museum metadata> Limestone statuette of a temple boy
+  Date: 4th century B.C.
+  Culture: Cypriot
+  Medium: Limestone
+  Dimensions: Overall: 9 1/2 x 5 15/16 x 2 1/16 in. (24.1 x 15.1 x 5.2 cm)
+  Classification: Stone Sculpture
+  Credit Line: The Cesnola Collection, Purchased by subscription, 1874–76
+  Accession Number: 74.51.2651
+
+[[36]]
+<Museum metadata> Glass head
+  Period: Ptolemaic
+  Date: 2nd century B.C.
+  Culture: Greek, Egyptian
+  Medium: Glass; cast and cut
+  Dimensions: H. 1 7/16 in. (3.6 cm)
+  Classification: Glass
+  Credit Line: Bequest of Walter C. Baker, 1971
+  Accession Number: 1972.118.176
+
+[[37]]
+<Museum metadata> Vase fragment
+  Period: Early Minoan II
+  Culture: Minoan
+  Medium: Terracotta
+  Dimensions: Other: 13/16 × 2 13/16 × 5/16 in. (2.1 × 7.1 × 0.9 cm)
+  Classification: Vases
+  Credit Line: Gift of the American Exploration Society, 1907
+  Accession Number: 07.232.117
+
+[[38]]
+<Museum metadata> Marble pilaster with acanthus scrolls
+  Period: Early Imperial, Julio-Claudian
+  Date: 1st half of 1st century A.D.
+  Culture: Roman
+  Medium: Marble
+  Dimensions: Overall: 138 x 28in. (350.5 x 71.1cm)
+  Classification: Stone Sculpture
+  Credit Line: Rogers Fund, 1910
+  Accession Number: 10.210.28a–c
+
+[[39]]
+<Museum metadata> Miniature glass flask
+  Period: Late Imperial
+  Date: 3rd–4th century A.D.
+  Culture: Roman
+  Medium: Glass; blown
+  Dimensions: Other: 1 3/4in. (4.4cm)
+  Classification: Glass
+  Credit Line: The Cesnola Collection, Purchased by subscription, 1874–76
+  Accession Number: 74.51.59
+
+[[40]]
+<Museum metadata> Kylix fragments
+  : Attributed to Douris
+  Period: Late Archaic
+  Culture: Greek
+  Medium: Terracotta; red-figure
+  Classification: Vases
+  Credit Line: Gift of Dietrich von Bothmer, 1983
+  Accession Number: 1983.466.2
+
+[[41]]
+<Museum metadata> Marble statue of a member of the imperial family
+  Period: Augustan or Julio-Claudian
+  Date: 27 B.C.–A.D. 68
+  Culture: Roman
+  Medium: Marble
+  Dimensions: Depth: 16 in. (40.63 cm)
+  Classification: Stone Sculpture
+  Credit Line: Bequest of Bill Blass, 2002
+  Accession Number: 2003.407.8a, b
+
+[[42]]
+<Museum metadata> Arrowhead
+  Culture: Cypriot
+  Medium: Bronze
+  Dimensions: Other: 2 5/8in. (6.7cm)
+  Classification: Bronzes
+  Credit Line: The Cesnola Collection, Purchased by subscription, 1874–76
+  Accession Number: 74.51.5329
+
+[[43]]
+<Museum metadata> Relief from casket
+  Culture: Roman
+  Medium: Ivory
+  Dimensions: Other: 1 7/8 x 3/16 x 2 13/16 in. (4.7 x 0.5 x 7.1 cm)
+  Classifications: Miscellaneous-Bone, Ivory
+  Credit Line: Gift of J. Pierpont Morgan, 1917
+  Accession Number: 17.190.99
+
+[[44]]
+<Museum metadata> Jug
+  Period: Early Cypriot
+  Date: 2500–1900 B.C.
+  Culture: Cypriot
+  Medium: Terracotta
+  Dimensions: 8 3/4in. (22.3cm)
+  Classification: Vases
+  Credit Line: The Cesnola Collection, Purchased by subscription, 1874–76
+  Accession Number: 74.51.1221

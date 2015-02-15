@@ -1,0 +1,103 @@
+[[1]]
+<Museum metadata> Jug, barrel-shaped
+  Period: Cypro-Geometric III
+  Date: 850–750 B.C.
+  Culture: Cypriot
+  Medium: Terracotta
+  Dimensions: H. 9 7/16 in. (24 cm)
+  Classification: Vases
+  Credit Line: The Cesnola Collection, Purchased by subscription, 1874–76
+  Accession Number: 74.51.495
+
+[[2]]
+<Museum metadata> Tooth pendant set in gold
+  Period: Late Classical
+  Date: 4th century B.C.
+  Culture: Etruscan
+  Medium: Gold, bone
+  Classification: Gold and Silver
+  Credit Line: Purchase by subscription, 1895
+  Accession Number: 95.15.340
+
+[[3]]
+<Museum metadata> Bronze patera (salver)
+  Period: Archaic
+  Date: ca. 550 B.C.
+  Culture: Etruscan
+  Medium: Bronze
+  Dimensions: diameter  18 1/16 in. (45.9 cm)
+  Classification: Bronzes
+  Credit Line: Rogers Fund, 1903
+  Accession Number: 03.23.31
+
+[[4]]
+<Museum metadata> Fragments of a terracotta kylix (drinking cup)
+  : Attributed to Makron
+  Period: Archaic
+  Date: ca. 490 B.C.
+  Culture: Greek, Attic
+  Medium: Terracotta; red-figure
+  Classification: Vases
+  Credit Line: Purchase, Mrs. Helen H. Mertens Gift, 1985
+  Accession Number: 1985.11.9a, b
+
+[[5]]
+<Museum metadata> Terracotta lekythos (oil flask)
+  : Attributed to an artist related to the Achilles Painter and Related to the Phiale Painter
+  Period: Classical
+  Date: ca. 450–440 B.C.
+  Culture: Greek, Attic
+  Medium: Terracotta; white-ground
+  Dimensions: H. 14 3/8 in. (36.5 cm)
+  Classification: Vases
+  Credit Line: Rogers Fund, 1922
+  Accession Number: 22.53
+
+[[6]]
+<Museum metadata> Ring with scaraboid
+  Medium: Silver, agate
+  Dimensions: Other (scarab): 7/16 × 3/16 × 1/2 in. (1 × 0.5 × 1.3 cm)
+  Classification: Gold and Silver
+  Credit Line: The Cesnola Collection, Purchased by subscription, 1874–76
+  Accession Number: 74.51.4156
+
+[[7]]
+<Museum metadata> Spoon probe
+  Medium: Silver
+  Dimensions: 3 11/16 × 13/16 in. (9.4 × 2.1 cm)
+  Classification: Gold and Silver
+  Credit Line: Rogers Fund, 1917
+  Accession Number: 17.230.113
+
+[[8]]
+<Museum metadata> Rhyton
+  Period: Cypro-Classical
+  Date: ca. 400 B.C.
+  Culture: Cypriot
+  Medium: Terracotta
+  Dimensions: 4 3/4 in.  (12.1 cm)
+  Classification: Vases
+  Credit Line: The Cesnola Collection, Purchased by subscription, 1874–76
+  Accession Number: 74.51.421
+
+[[9]]
+<Museum metadata> Glass perfume bottle
+  Period: Mid Imperial
+  Date: 2nd–3rd century A.D.
+  Culture: Roman
+  Medium: Glass; blown
+  Dimensions: H.: 9 15/16 in. (25.2 cm)
+  Classification: Glass
+  Credit Line: Gift of Henry G. Marquand, 1881
+  Accession Number: 81.10.102
+
+[[10]]
+<Museum metadata> Jug
+  Period: Middle Cypriot
+  Date: 1900–1600 B.C.
+  Culture: Cypriot
+  Medium: Terracotta
+  Dimensions: 8 7/16in. (21.5cm)
+  Classification: Vases
+  Credit Line: The Cesnola Collection, Purchased by subscription, 1874–76
+  Accession Number: 74.51.1096

@@ -1,0 +1,107 @@
+[[1]]
+<Museum metadata> Terracotta kylix (drinking cup)
+  : Attributed to the Class of Palmette Eye-cups
+  Period: Archaic
+  Date: ca. 510 B.C.
+  Culture: Greek, Attic
+  Medium: Terracotta; red-figure
+  Dimensions: diameter of foot  4 13/16 in. (12.2 cm)
+  Classification: Vases
+  Credit Line: Fletcher Fund, 1956
+  Accession Number: 56.171.61
+
+[[2]]
+<Museum metadata> Terracotta lekythos (oil flask)
+  : Attributed to Group R
+  Period: Classical
+  Date: ca. 420–400 B.C.
+  Culture: Greek, Attic
+  Medium: Terracotta; white-ground
+  Dimensions: H. 21 1/4 in. (54 cm); diameter  5 3/8 in. (13.7 cm)
+  Classification: Vases
+  Credit Line: Rogers Fund, 1941
+  Accession Number: 41.162.12
+
+[[3]]
+<Museum metadata> Terracotta spouted jug
+  Period: Early Bronze III–Middle Bronze I
+  Date: ca. 2700–2300 B.C.
+  Culture: Cycladic or Cretan
+  Medium: Terracotta
+  Dimensions: H. 10 inches (25.3 cm)
+  Classification: Vases
+  Credit Line: Gift of Andrés A. Mata, in memory of Elodia Mata, 2004
+  Accession Number: 2004.342.2
+
+[[4]]
+<Museum metadata> Glass fragmentary bottle
+  Period: Imperial
+  Date: ca. 1st–4th century A.D.
+  Culture: Roman
+  Medium: Glass; blown
+  Dimensions: H. 5 3/8 in. (13.7 cm)
+  Classification: Glass
+  Credit Line: Gift of Henry G. Marquand, 1881
+  Accession Number: 81.10.54
+
+[[5]]
+<Museum metadata> Terracotta loom weight
+  Period: Archaic or later
+  Date: 6th century B.C. or later
+  Culture: Lydian
+  Medium: Terracotta
+  Dimensions: Length: 2 5/8 in. (6.6 cm)
+  Classification: Terracottas
+  Credit Line: Gift of The American Society for the Excavation of Sardis, 1926
+  Accession Number: 26.199.87
+
+[[6]]
+<Museum metadata> Terracotta statuette of a boy
+  Period: Hellenistic
+  Date: late 4th–early 3rd century B.C.
+  Culture: Greek, perhaps Attic
+  Medium: Back, venting: Back moldmade, plain, not vented, open under shirt.
+  Dimensions: H. 6 1/4 in. (15.8 cm)
+  Classification: Terracottas
+  Credit Line: Rogers Fund, 1906
+  Accession Number: 06.1064
+
+[[7]]
+<Museum metadata> Limestone statuette of a bearded male votary with Cypriot shorts and a diadem
+  Date: ca. 550–500 B.C.
+  Culture: Cypriot
+  Medium: Limestone
+  Dimensions: WebPub GR 2012 Cesnola: 69 3/16 in. (175.8 cm)
+  Classification: Stone Sculpture
+  Credit Line: The Cesnola Collection, Purchased by subscription, 1874–76
+  Accession Number: 74.51.2612
+
+[[8]]
+<Museum metadata> Bronze mirror with traces of gilding
+  Period: Mid-Imperial, Antonine
+  Date: mid-2nd century A.D.
+  Culture: Roman
+  Medium: Bronze, Gold
+  Dimensions: Diam.: 5 13/16 in. (14.7 cm)
+  Classification: Bronzes
+  Credit Line: Purchase, The Abraham Foundation Inc. Gift, 1978
+  Accession Number: 1978.11.4
+
+[[9]]
+<Museum metadata> Amulet pendant, grapes
+  Medium: Clay, glazed
+  Dimensions: Other: 1 3/8 x 3/8 x 2 1/16 in. (3.4 x 1 x 5.2 cm)
+  Classification: Gold and Silver
+  Credit Line: The Cesnola Collection, Purchased by subscription, 1874–76
+  Accession Number: 74.51.4522
+
+[[10]]
+<Museum metadata> Fragment of a terracotta plaque
+  Period: Archaic
+  Date: 7th century B.C.
+  Culture: Greek, Cretan
+  Medium: Terracotta
+  Dimensions: 2 1/2 in. x 4 1/2 in. (6.4 cm x 11.5 cm)
+  Classification: Terracottas
+  Credit Line: Gift of the Archaeological Institute of America, 1953
+  Accession Number: 53.5.4

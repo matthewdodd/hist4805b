@@ -1,0 +1,93 @@
+[[1]]
+<Museum metadata> Askos in the form of a bird
+  Period: Cypro-Archaic I
+  Date: 750–600 B.C.
+  Culture: Cypriot
+  Medium: Terracotta
+  Dimensions: 3 5/8in. (9.2cm)
+  Classification: Vases
+  Credit Line: The Cesnola Collection, Purchased by subscription, 1874–76
+  Accession Number: 74.51.818
+
+[[2]]
+<Museum metadata> Frontlet of gold leaf
+  Medium: Gold
+  Dimensions: Other: 1 13/16 × 4 in. (4.6 × 10.1 cm)
+  Classification: Gold and Silver
+  Credit Line: The Cesnola Collection, Purchased by subscription, 1874–76
+  Accession Number: 74.51.3551
+
+[[3]]
+<Museum metadata> Curette
+  Medium: Bronze
+  Dimensions: Other: 6 3/4 in. (17.1 cm)
+  Classification: Bronzes
+  Credit Line: Fletcher Fund, 1925
+  Accession Number: 25.78.121
+
+[[4]]
+<Museum metadata> Fragment of a terracotta kylix (drinking cup)
+  Period: Classical
+  Date: ca. 480 B.C.
+  Culture: Greek, Attic
+  Medium: Terracotta; red-figure
+  Dimensions: Other: 1 1/4 x 1 3/16 x 1/8 in. (3.1 x 3.1 x 0.4 cm)
+  Classification: Vases
+  Credit Line: Gift of the Honorable Iris Cornelia Love, 2011
+  Accession Number: 2011.603.1
+
+[[5]]
+<Museum metadata> Intaglio
+  Date: 1st century B.C.–3rd century A.D.
+  Culture: Roman
+  Medium: Stone, pink
+  Dimensions: Other: 9/16 x 3/8 x 1/16 in. (1.4 x 1 x 0.2 cm)
+  Classification: Gems
+  Credit Line: Bequest of W. Gedney Beatty, 1941
+  Accession Number: 41.160.1055
+
+[[6]]
+<Museum metadata> Terracotta relief with the head and neck of a woman
+  Period: Classical
+  Date: 1st half of 5th century B.C.
+  Culture: Greek, probably Rhodian
+  Medium: 
+  Dimensions: H. 3 5/8 in. (9.2 cm)
+  Classification: Terracottas
+  Credit Line: Purchase, Mrs. Helen H. Mertens Gift, 1961
+  Accession Number: 61.11.7
+
+[[7]]
+<Museum metadata> Terracotta hydria (water jar)
+  : Attributed to the Circle of the Lydos
+  Period: Archaic
+  Date: ca. 560 B.C.
+  Culture: Greek, Attic
+  Medium: Terracotta; black-figure
+  Dimensions: diameter of body  12 3/16 in. (30.9 cm)
+  Classification: Vases
+  Credit Line: The Bothmer Purchase Fund, 1988
+  Accession Number: 1988.11.3
+
+[[8]]
+<Museum metadata> Silver and gold phiale (libation bowl)
+  Period: Archaic
+  Date: late 6th century B.C.
+  Culture: Cypriot
+  Medium: Silver, gold
+  Dimensions: diameter  6 3/4 in. (17.2 cm)
+  Classification: Gold and Silver
+  Credit Line: The Cesnola Collection, Purchased by subscription, 1874–76
+  Accession Number: 74.51.4572
+
+[[9]]
+<Museum metadata> Mug
+  : Attributed to the Xenon Group
+  Period: Late Classical
+  Date: 4th century B.C.
+  Culture: Greek, South Italian, Apulian
+  Medium: Terracotta
+  Dimensions: Diameter: 3 × 2 7/8 × 2 1/16 in. (7.7 × 7.4 × 5.2 cm)
+  Classification: Vases
+  Credit Line: Rogers Fund, 1971
+  Accession Number: 1971.11.17
