@@ -1,0 +1,10 @@
+- USAGE (ENSURE REGEX IS SELECTED):
+ - #1: (search mode: normal) Ctrl-H Find: [[ and Replace: tempObjectNumber:
+ - #2: (search mode: normal) Ctrl-H Find: ]] and Replace: ""
+ - #3: (search mode: normal) Ctrl-H Find: <Museum metadata> and Replace: Title:
+ - #4: (search mode: normal) Ctrl-H Find: : Attributed to and Replace: Attribution: 
+ - #5: (search mode: normal) Ctrl-H Find: , and Replace: ""
+ - #6: (search mode: extended) Ctrl-H Find: \n\r and Replace: ,
+ - #7: (search mode: extended) Ctrl-H Find: \r\n and Replace: ,
+ - #8: (search mode: extended) Ctrl-H Find: ,\n and Replace: ""
+ - #9: (search mode: normal) Find: ,Title: and Replace: , Title:
