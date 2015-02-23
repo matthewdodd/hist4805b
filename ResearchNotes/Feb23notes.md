@@ -18,6 +18,8 @@
  - J. Pierpont Morgan (Sr./Jr.?)
  - Rogers Fund? Jacob S. Rogers: American businessman
  - Edward C. Moore? Tiffany & Co.; silversmith
+ - W. Gedney Beatty? Volunteer[?] at the Met; painter[seems likely/?]; architect
+ - Richard B. Seager? Archaeologist; brother of economist
  - What did railroaders have in common? Is it just wealth?
  - Why do these people matter and appear so often?
  - Where else are they connected?
