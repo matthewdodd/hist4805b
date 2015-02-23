@@ -14,7 +14,11 @@
  - Subscription, J. Pierpont Morgan, Rogers Fund, Edward C. Moore, W. Gedney Beatty, Richard B. Seager are the most common Credit Lines by Text
 
  
-- My conclusion on Palladio for this period is that much can be easily seen, including some of the most important donors (J. Pierpont Morgan [Sr./Jr.?]; Rogers?; Edward C. Moore?)
+- My conclusion on Palladio for this period is that much can be easily seen, including some of the most important donors: 
+ - J. Pierpont Morgan (Sr./Jr.?)
+ - Rogers Fund? Jacob S. Rogers: American businessman
+ - Edward C. Moore? Tiffany & Co.; silversmith
+ - What did railroaders have in common? Is it just wealth?
  - Why do these people matter and appear so often?
  - Where else are they connected?
  - If one donor is compared to a period, date, culture, etc. what comes out of it?
