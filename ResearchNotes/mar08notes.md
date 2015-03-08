@@ -1,0 +1,18 @@
+# Valuation of objects
+- The top 13 creditors for objects to the Met Museum:
+ - Cesnola Collection: 5230
+ - Rogers Fund: 2721
+ - Purchase: 1436
+ - J. Pierpont Morgan: 1411
+ - Edward C. Moore: 644
+ - Fletcher Fund: 611
+ - W. Gedney Beatty: 527
+ - Richard B. Seager: 473
+ - Henry G. Marquand: 379
+ - American Society for the Exploration/Excavation of Sardis: 360
+ - John Taylor Johnston: 282
+ - American Exploration Society: 246
+ - A.J.B. Wace: 239
+- Total comes to: 14559
+- 13 Sources of 559 distinct creditors gives 2.3% of creditors 
+- This means that 2.3% account for 85.35% of objects
